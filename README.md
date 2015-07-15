@@ -10,3 +10,4 @@ Prahalad, C. K., & Ramaswamy, V. (2004) The Future of Competition: Co-creating U
 
 The emergence of social networking sites has created a problem of how the self is to be understood in the online world. 
 As these sites are social, they relate someone with others in a network. Thus there seems to emerge a new kind of self which exists in the online world. As the use of online social media has become more widespread, the line between the two kinds of self is becoming fuzzier. Ultimately speaking, both kinds of selves do not have any essence, i.e., any characteristic inherent to them that serves to show that these selves are what they are and none other. Instead an externalist account of the identity of the self is offered that locates the identity in question in the self’s relations with other selves as well as other events and objects.
+_Minds and Machines_
