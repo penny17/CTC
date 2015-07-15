@@ -7,3 +7,4 @@ This question has grown its relevancy since the social networks had a boom. The 
 
 
 Prahalad, C. K., & Ramaswamy, V. (2004) The Future of Competition: Co-creating Unique Value with Customers. Boston: Harvard Business Press.
+The emergence of social networking sites has created a problem of how the self is to be understood in the online world. 
