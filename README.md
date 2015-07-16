@@ -16,10 +16,11 @@ Virtual worlds today are largely social in nature, people enter these worlds in 
 “Dual reality,” defined as an environment result from the interplay between the real world and the virtual world, is bi-directional; while both worlds are complete onto themselves, they are also enriched by their ability to mutually reflect, influence, and merge into one another. New devices like Google Glass or Meta (less know but even more amazing than the former) which allows you to manipulate and model 3D objects, are making the line between physical and digital world less and less tangible. This "augmented reality" devices aim to introduce the digital into the physical as nothing has done it before. The goal may not be, and probably should not be, to replicate all aspects of the real world, but rather only those that facilitate the interaction in a virtual environment. The potential applications are abundant. _(Joshua Lifton and Joseph A. Paradiso, 2013)_
 
 One example is pointed out by the former NFL punter, Chris Klume. He focuses on the utilities of augmented reality in sports. He proposes to use Google Glass-like devices to transmit what players see inside the game, "literally showing someone what it looks like to walk a mile in another person’s shoes”, this helps the reciever to empathize more than he already does.
+
 “The digital and the physical, media and humans, have imploded and augmented each other. We cannot focus on one side, be it human or technology, without deeply acknowledging the other” _(Jurgenson, 2011)_.
 
 
-Bibliografía y referencias
+Bibliography and References
 
 1) Stefano Pace. (2013) Looking at innovation through CCT glasses: Consumer culture theory and Google Glass innovation. Journal of Innovation Management.p38-54.
 1.1) Jurgenson, N. (2011). Digital dualism versus augmented reality. Cyborgology. p84. http://thesocietypages.org/cyborgology/.
