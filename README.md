@@ -21,9 +21,9 @@ One example is pointed out by the former NFL punter, Chris Klume. He focuses on 
 
 Bibliografía y referencias
 
-Stefano Pace. (2013) Looking at innovation through CCT glasses: Consumer culture theory and Google Glass innovation. Journal of Innovation Management.p38-54.
-Jurgenson, N. (2011). Digital dualism versus augmented reality. Cyborgology. p84. http://thesocietypages.org/cyborgology/.
-Prahalad, C. K., & Ramaswamy, V. (2004) The Future of Competition: Co-creating Unique Value with Customers. Boston: Harvard Business Press.
-Canniford, R., & Shankar, A. (2013). Purifying practices: How consumers assemble romantic experiences of nature. Journal of Consumer Research, 39(5), 1051-1069.
-Ten Forthcoming Augmented Reality and Smart Glasses You Can Buy. http://www.hongkiat.com/blog/augmented-reality-smart-glasses/
-Melissa Salmon. (2014). The boom of social media technology. http://www.jamaicaobserver.com/columns/The-boom-of-social-media-technology_16309612
+1) Stefano Pace. (2013) Looking at innovation through CCT glasses: Consumer culture theory and Google Glass innovation. Journal of Innovation Management.p38-54.
+1.1) Jurgenson, N. (2011). Digital dualism versus augmented reality. Cyborgology. p84. http://thesocietypages.org/cyborgology/.
+1.2) Prahalad, C. K., & Ramaswamy, V. (2004) The Future of Competition: Co-creating Unique Value with Customers. Boston: Harvard Business Press.
+1.3) Canniford, R., & Shankar, A. (2013). Purifying practices: How consumers assemble romantic experiences of nature. Journal of Consumer Research, 39(5), 1051-1069.
+2)Ten Forthcoming Augmented Reality and Smart Glasses You Can Buy. http://www.hongkiat.com/blog/augmented-reality-smart-glasses/
+3) Melissa Salmon. (2014). The boom of social media technology. http://www.jamaicaobserver.com/columns/The-boom-of-social-media-technology_16309612
