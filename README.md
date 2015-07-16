@@ -1,5 +1,6 @@
 # CTC
 Contemporary Trends in Communication Essay 
+
 "Is the digital world more real than the offline version?"
 
 This question has grown its relevancy since the social networks had a boom. The use of this media became revolutionary as it has been proven that helps to the sense of belongness of many people. It provides a platform for those whose tiny voice in the physical world hasn't been heard. This kind of innovation responds to the needs of both, the very specific groups of people and the big picture in society. Innovation is an interactive process, the new product meets the new needs of people and viceversa, the new product evolves because of the participation and use of the consumers _(Prahalad and Ramaswamy, 2004; Vargo and Lusch, 2004; von Hippel, 2005)_. A new technology and system like social media meets the new need of participation that the human has. After ethnographic reaserch show that nature is not just a reality that is given and  that is external to the individuals, the concept of nature is also part of an on-going cultural discourse that shapes it. Consumers try to view the concept of nature through its three essential features: the sublime, the sacred and the primitive _(Canniford and Shankar, 2013)_. However, these features are constantly challenged by contrasting experience.
@@ -19,6 +20,7 @@ One example is pointed out by the former NFL punter, Chris Klume. He focuses on 
 
 
 Bibliografía y referencias
+
 Stefano Pace. (2013) Looking at innovation through CCT glasses: Consumer culture theory and Google Glass innovation. Journal of Innovation Management.p38-54.
   Jurgenson, N. (2011). Digital dualism versus augmented reality. Cyborgology. p84. http://thesocietypages.org/cyborgology/.
   Prahalad, C. K., & Ramaswamy, V. (2004) The Future of Competition: Co-creating Unique Value with Customers. Boston: Harvard Business Press.
