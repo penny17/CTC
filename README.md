@@ -17,7 +17,7 @@ Virtual worlds today are largely social in nature, people enter these worlds in 
 
 One example is pointed out by the former NFL punter, Chris Klume. He focuses on the utilities of augmented reality in sports. He proposes to use Google Glass-like devices to transmit what players see inside the game, "literally showing someone what it looks like to walk a mile in another person’s shoes”, this helps the reciever to empathize more than he already does.
 
-“The digital and the physical, media and humans, have imploded and augmented each other. We cannot focus on one side, be it human or technology, without deeply acknowledging the other” _(Jurgenson, 2011)_.
+The digital world has shown us that you can use it in different ways. It depends on the user how to make it a tool or a threat. It depends on the user how tecnology evolves to help us as a society and in our human capabilities to interact with others in different ways. “The digital and the physical, media and humans, have imploded and augmented each other. We cannot focus on one side, be it human or technology, without deeply acknowledging the other” _(Jurgenson, 2011)_.
 
 
 Bibliography and References
